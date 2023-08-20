@@ -78,7 +78,7 @@
         android:layout_marginTop="55dp"
         android:backgroundTint="@color/grenish_white"
         android:fontFamily="@font/franklin"
-        android:text="नेवारी गाली "
+        android:text="गु खाउ "
         android:onClick="SayTheDialog"
         android:textColor="@color/light_black"
         android:textSize="20dp"
